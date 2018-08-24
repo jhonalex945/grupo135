@@ -12,7 +12,7 @@ export class MenuComponent implements OnInit {
 
   constructor()
     {
-      this.menu = ['Inicio', 'Acerca', 'Ayuda', 'Clientes']
+      this.menu = ['Inicio1', 'Acerca', 'Ayuda', 'Clientes']
       this.menuInicio = ['Ingresar', 'Salir']
     }
 
